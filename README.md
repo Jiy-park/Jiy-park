@@ -13,7 +13,7 @@
     - 2023 국방 공공데이터 활용 경진대회 제출용
     - 군인들을 위한 자기개발 애플리케이션
       
-  3.[Voca Block-진행](https://github.com/Jiy-park/voca_block)
+  3.[Voca Block-진행중](https://github.com/Jiy-park/voca_block)
     - 개인 프로젝트
     - 영단어 외우기 애플리케이션  
 
