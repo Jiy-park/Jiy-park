@@ -5,4 +5,7 @@ Skills
 
 
 * Projects
-  [Project-TalkingRecipe](https://github.com/Jiy-park/KNU_CapstoneDesign-TalkingRecipe-)
+  [토킹 레시피](https://github.com/Jiy-park/KNU_CapstoneDesign-TalkingRecipe-)
+  - 강원대학교 캡스톤 디자인 과제물
+  - TTS 및 STT를 사용한 핸즈 프리 레시피 애플리케이션
+  
