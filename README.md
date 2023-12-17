@@ -17,6 +17,8 @@
       
   3.[Voca Block-진행중](https://github.com/Jiy-park/voca_block)
     - 개인 프로젝트
-    - 영단어 외우기 애플리케이션  
+    - 영단어 외우기 애플리케이션
+ 
+  * etc
 
   
