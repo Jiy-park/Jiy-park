@@ -7,10 +7,12 @@
 * Projects  
   1.[토킹 레시피](https://github.com/Jiy-park/KNU_CapstoneDesign-TalkingRecipe-)
     - 강원대학교 캡스톤 디자인 제출용(은상 수상)
-    - TTS 및 STT를 사용한 핸즈 프리 레시피 애플리케이션  
+    - TTS 및 STT를 사용한 핸즈 프리 레시피 애플리케이션
+      
   2.[군자](https://github.com/Jiy-park/project_gunza)
     - 2023 국방 공공데이터 활용 경진대회 제출용
-    - 군인들을 위한 자기개발 애플리케이션  
+    - 군인들을 위한 자기개발 애플리케이션
+      
   3.[Voca Block-진행](https://github.com/Jiy-park/voca_block)
     - 개인 프로젝트
     - 영단어 외우기 애플리케이션  
