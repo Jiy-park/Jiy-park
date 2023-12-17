@@ -19,6 +19,6 @@
     - 개인 프로젝트
     - 영단어 외우기 애플리케이션
  
-  * etc
+* [etc..](https://github.com/Jiy-park?tab=repositories)
 
   
